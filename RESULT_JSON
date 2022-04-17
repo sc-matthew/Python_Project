@@ -1,0 +1,18 @@
+{
+    "destination_addresses": ["991 Rama I Rd, Khwaeng Pathum Wan, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand"],
+    "origin_addresses": ["Sao Chingcha, Phra Nakhon, Bangkok 10200"],
+    "rows":
+    [
+        {
+        "elements":
+            [
+            {
+                "distance": { "text": "3.3 mi", "value": 5320 },
+                "duration": { "text": "13 mins", "value": 795 },
+                "status": "OK"
+            }
+            ]
+        }
+    ],
+    "status": "OK"
+}
