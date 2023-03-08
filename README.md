@@ -3,7 +3,7 @@
 * [Suramate Chokchaisuwan 6341232926](https://github.com/sc-matthew)
 
 >
-The sophomore project is practical for the student who enrolls in the program design course, which involves the use of the Python programming language and the Google API web services. 
+This sophomore project is practical assignment for the student who enrolls in the program design course, which involves the use of the Python programming language and the Google API web services. 
 
 The author has implemented his learning by working with different data types such as lists, JSON, dictionaries, and tuples. For testing conditions, the author has utilized for-loops and while-loops to ensure that the project performs as intended.
 
