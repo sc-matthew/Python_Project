@@ -11,6 +11,8 @@ The project involves working with Google API to send requests and retrieve data,
 
 Overall, this project offers a great opportunity for me to apply what I have learned about Python programming language in a practical setting and improve through trial and error.
 
+Remark : Please note that the fare calculation including price per km, and base fare are based on BOLT application.
+
 ---
 
 ## This is a video of the project (THAI Language)
